@@ -6,7 +6,7 @@ import HomePage from './pages/HomePage';
 import About from './pages/About'
 import ArticlePage from './pages/ArticlePage';
 import ArticlesList from './pages/ArticlesList';
-import NotFound from './pages/NotFound';
+import NotFound from './pages/NotFound'; 
 function App() {
   return (
    <BrowserRouter>
